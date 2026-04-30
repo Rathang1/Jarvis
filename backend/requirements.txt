@@ -1,0 +1,6 @@
+strands-agents
+strands-agents-tools
+anthropic
+fastapi
+uvicorn
+python-dotenv
